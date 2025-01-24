@@ -1,0 +1,16 @@
+[
+{
+  "modid": "fom_lib",
+  "name": "fom_lib",
+  "description": "A Library Aimed to Provide Easier Coding for Fom's Mods",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["MinecraftFom477 | Fom477"],
+  "credits": "Fom477 : Code & Owner",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
